@@ -4,7 +4,7 @@
 
 # WSL2 + Docker Quick Guide
 
-*Read this in other language: [Portuguese](README.md)
+*Read this in other language: [Portuguese](README.pt.md)
 
 ## What is WSL2?
 
